@@ -15,7 +15,7 @@ We aim to improve the customer experience for travelers by predicting flight del
 ## Installation
 
 ```
-git clone [https://github.com/eliasedwin7/DTS_Final_Flights.git](https://github.com/eliasedwin7/DTS_Final_Flights.git)
+git clone https://github.com/eliasedwin7/DTS_Final_Flights.git
 pip install -r requirements.txt
 ```
 
